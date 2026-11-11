@@ -22,6 +22,5 @@ jobs:
           -target CoffeeRoastLog
           -sdk iphonesimulator
           -configuration Debug
-          -derivedDataPath build
           CODE_SIGNING_ALLOWED=NO
           build
